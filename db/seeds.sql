@@ -10,7 +10,7 @@ VALUES  ("Administration", 1),
         ('Reception', 4),
         ('Sanitation', 5);
 
-INSERT INTO roles(title, id, department_id, salary)
+INSERT INTO role(title, id, department_id, salary)
         ("CEO", 1, 1, 200000),
         ('Assistant Director', 2, 1, 120000),
         ("Accountant", 3, 2, 65000),
