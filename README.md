@@ -17,5 +17,5 @@ https://screenrec.com/share/enMz3bIYRE
 
 ## Contact
 Reach out to me on Github if you have any questions!
-Github repository link: https://github.com/17kyle1/Professional-Readme-Generator
+Github repository link: https://github.com/17kyle1/Employee-Tracker-Challenge-12
 
